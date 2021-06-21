@@ -1,9 +1,9 @@
 Listado-de-links
+![image](https://user-images.githubusercontent.com/63132435/122698736-4a293b00-d21e-11eb-99f5-b709e0cd4e44.png)
 
 Extencion de Chrome para el guardado de links en lista
 Proyecto del curso Learn Javascript de Scrimba
-
-![image](https://user-images.githubusercontent.com/63132435/122695718-a341a080-d217-11eb-8290-c35b2ae39f5a.png)
+![image](https://user-images.githubusercontent.com/63132435/122698686-2fef5d00-d21e-11eb-9560-0761d9f1ae95.png)
 
 Funcionalidades:
 
@@ -13,4 +13,4 @@ Save Tab: al presionar click, permite ingresar la url de la pagina y guardarla e
 
 Delete All: al presionar doble - click, permite resetear el registro limpliando la lista.
 
-*los datos guardados se mantienen independiendte del cambio entre pestañas no asi cuando se cierra el navegador por guardarse en el almacenamiento local del mismo. 
+*los datos guardados se mantienen independiendte del cambio entre pestañas,al igual que al cerrar navegador.
