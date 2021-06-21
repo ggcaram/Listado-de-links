@@ -22,18 +22,5 @@ _4) Ingresar desde el boton de extensiones, o fijar_
 
 * **Gabriel Cura Caram** - [ggcaram](https://github.com/ggcaram)
 
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+## Curso de: ✒️
+* **Per Harald Borgen** - [Scrimba](https://scrimba.com/)
