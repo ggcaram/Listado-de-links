@@ -3,7 +3,7 @@ Listado-de-links
 
 Extencion de Chrome para el guardado de links en lista
 Proyecto del curso Learn Javascript de Scrimba
-![image](https://user-images.githubusercontent.com/63132435/122698686-2fef5d00-d21e-11eb-9560-0761d9f1ae95.png)
+![image](https://user-images.githubusercontent.com/63132435/122698803-71800800-d21e-11eb-93bd-2186c5981b01.png)
 
 Funcionalidades:
 
