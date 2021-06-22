@@ -1,3 +1,4 @@
+
 body {
     margin: 0;
     padding: 10px;
@@ -9,7 +10,7 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #2E86C1;
+    border: 1px inset #2E86C1;
     margin-bottom: 4px;
 }
 
@@ -19,6 +20,8 @@ button {
     padding: 10px 20px;
     border: 1px solid #2E86C1;
     font-weight: bold;
+    position: relative;
+    overflow: hidden;
 }
 
 #delete-btn {
@@ -41,5 +44,32 @@ a {
 }
 
 
+button span {
+    color: white;
+    position: relative;
+    z-index: 1;
+    transition: color 0.6s cubic-bezier(0.53, 0.21, 0, 1);
+}
 
+button::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    border-radius: 6px;
+    transform: translate(-100%, -50%);
+    width: 100%;
+    height: 100%;
+    background-color: #2E86C1;
+    transition: transform 0.6s cubic-bezier(0.53, 0.21, 0, 1);
+}
 
+#delete-btn::before {background-color: white;}
+
+button:hover span {
+    color: black;
+}
+
+button:hover::before {
+    transform: translate(0, -50%);
+}
