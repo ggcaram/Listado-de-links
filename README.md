@@ -18,6 +18,13 @@ _3) Presionar en el boton "Cargar extension sin empaquetar"_
 
 _4) Ingresar desde el boton de extensiones, o fijar_
 
+## Funcionalidades ⚙️
+
+* **Listar** - Al clickear - guarda lo ingresado en el input
+* **Guardar Tab** - Al clickear - guarda la pestaña actual
+* **Resetear** - Al clickear 2 veces - borra toda la lista ingresada 
+
+
 ## Construido con 🛠️
 
 * [Htlml]
